@@ -1,8 +1,8 @@
-## Galaxy Swapper v2
+## Galaxy Swapper v2 REBUILT
 
-Revamp your Fortnite experience with our skin swapper designed for the latest version of Fortnite. This repository contains the source code for Galaxy Swapper v2.
+Revamp your Fortnite experience with Galaxy Swapper's skin swapper designed for the latest version of Fortnite. This repository contains the source code for Galaxy Swapper v2 REBUILT.
 
-Note: It is recommended to download Galaxy Swapper v2 from [here](https://galaxyswapperv2.com/Downloads/InGame.php) instead of rebuilding it yourself.
+Note: This version of Galaxy Swapper v2 is rebuilt from its source code, if you'd like to download the official one, you can do so [here](https://galaxyswapperv2.com/Downloads/InGame.php)
 
 ## What is Galaxy Swapper v2?
 
@@ -12,7 +12,7 @@ Galaxy Swapper v2 is a free Fortnite skin changer built in WPF that allows you t
 * [Discord](https://galaxyswapperv2.com/Discord)
 * [Website](https://galaxyswapperv2.com)
 
-## Packages used in our application
+## Packages used in Galaxy Swapper's application
 
 * [CUE4Parse](https://github.com/FabianFG/CUE4Parse)
 * [DotNetZip](https://github.com/haf/DotNetZip.Semverd)
