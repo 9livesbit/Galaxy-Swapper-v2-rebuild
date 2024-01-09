@@ -28,6 +28,10 @@ Galaxy Swapper v2 is a free Fortnite skin changer built in WPF that allows you t
 
 * [@Wslt](https://github.com/CodeWslt)
 
+## Rebuilt by
+
+* [ItsSol4r](https://github.com/ItsSol4r/)
+
 ## License
 
 Galaxy Swapper v2 is licensed under [GNU General Public License v3.0](https://github.com/GalaxySwapperOfficial/Galaxy-Swapper-v2/blob/main/LICENSE)
